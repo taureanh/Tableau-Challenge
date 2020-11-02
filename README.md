@@ -16,7 +16,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Utilized Citi Bike Trip History data from January, February, March, June, July and August to give a representation of Winter months and Summer months
 
-Combined Summer months  and winter months using using python
+Combined Summer months  and Winter months using using python
 
 ## Visualizations Created
 Total trips Summer,
