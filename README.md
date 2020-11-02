@@ -21,25 +21,25 @@ Utilized Citi Bike Trip History data from January, February, March, June, July a
 Combined Summer months  and winter months using using python
 
 ## Visualizations Created
-Total trips Summer
-Total trips Winter
-Total trips by each month:Summer
-Total trips by each month:Winter
-Ridership decline:Winter
-Ridership growth: Summer
-User type:Summer
-User type: Winter
-Trip Duration: Gender and Age: Summer
-Trip Duration: Gender and Age: Winter
-Peak Hours:Summer
-Peak Hours: Winter
-Start Station Heatmap
-End Station Heatmap
-Top 10 Start station: Summer
-Top 10 End Station:Summer
-Top 10 Start station: Winter
-Top 10 End station:Winter
-CitiBike Trip Overview
-Station Analysis
+Total trips Summer,
+Total trips Winter,
+Total trips by each month:Summer,
+Total trips by each month:Winter,
+Ridership decline:Winter,
+Ridership growth: Summer,
+User type:Summer,
+User type: Winter,
+Trip Duration: Gender and Age: Summer,
+Trip Duration: Gender and Age: Winter,
+Peak Hours:Summer,
+Peak Hours: Winter,
+Start Station Heatmap,
+End Station Heatmap,
+Top 10 Start station: Summer,
+Top 10 End Station:Summer,
+Top 10 Start station: Winter,
+Top 10 End station:Winter,
+CitiBike Trip Overview,
+Station Analysis.
 
 
